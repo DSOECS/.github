@@ -1,5 +1,6 @@
 <div display="flex">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=1000&height=80&lines=Computer+Engineering+Digital+Tranfer;Preparation+Project+-+Test+Maker" alt="Typing SVG" /></a> </div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=1000&height=80&lines=KMITL+Computer+Engineering;Preparation+Project+-+
+Digital+Scan+Online+Examination+Creator+System" alt="Typing SVG" /></a> </div>
 
 ## Description  
 	 -
