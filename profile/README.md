@@ -9,11 +9,12 @@
 
 <div display="flex">
 
-### Service Team
-		65015088 : Nititron   Kongdang
-		65015143 : Wiraphat   Prasomphong
-
-
-###  Platform Team
-		65015077 : Thiraphat  Suksamosorn
-		65015144 : Veerapod   Chuchat
+### Advisor
+	Major-Advisor 	: Asst.Prof. Thana Hongsuwan
+ 	Co-Advisor 	: Asst.Prof.Dr. Chompoonuch Tengcharoen
+### Our Team
+	65015077 : Thiraphat  Suksamosorn
+	65015088 : Nititron   Kongdang
+	65015143 : Wiraphat   Prasomphong
+	65015144 : Veerapod   Chuchat
+ 
